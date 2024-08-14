@@ -37,6 +37,7 @@ Research Questions:
 - Question 8: Have home prices increased at a faster rate in smaller cities compared to large cities?
 
 Repository Structure:
+
 Accessing our Data Files used in our Analysis: 
 - Hypotheses 1 Inventory Levels (Main Branch): Data_Analytics_Project1/Code/Zillow_Data/Metro_invt_fs_uc_sfrcondo_sm_month.csv
 - Hypotheses 2 Rent Index (Main Branch): Data_Analytics_Project1/Code/Zillow_Data/Metro_zori_uc_sfrcondomfr_sm_month.csv
