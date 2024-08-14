@@ -13,28 +13,28 @@ Project Description: Anecdotally, the COVID-19 pandemic and the resulting increa
 Scope & Data Collection: The project analysis will be sourced from Zillow’s real estate databases (https://www.zillow.com/research/data/) and Macrotrends (https://www.macrotrends.net/2015/fed-funds-rate-historical-chart) conducted on a nationwide scale during the time period of 2018-2023, highlighting pre-pandemic, pandemic, and post-pandemic periods. The key metrics we aim to focus on are: Inventory Levels, Market Heat Index, Rent Index, and Home Value Index. 
 
 Hypotheses: 
-Hypothesis 1: Larger Cities experienced an increase in inventory compared to smaller cities due to individuals moving from larger cities to more remote locations during the pandemic period (2020-2021). 
-Ho: Larger cities do not experience a significant increase in inventory compared to smaller cities during the pandemic period (2020-2021).
-Ha: Larger cities experienced a significant increase in inventory compared to smaller cities during the pandemic period (2020-2021).
-Hypothesis 2: Larger cities experienced a decrease in rent value index compared to smaller cities during the pandemic period (2020-2021)
-Ho: Larger cities did not experience a significant decrease in rent value index
-Ha: Larger cities did experience a significant decrease in rent value index
-Hypothesis 3:  Larger Cities experienced a decrease in home value index compared to smaller cities due to individuals moving from larger cities to more remote locations during the pandemic period (2020-2021). 
-Ho: Larger cities do not experience a significant decrease in home value index.
-Ha: Larger cities do experience a significant decrease in home value. 
-Hypothesis 4: Larger cities experienced a decrease in market heat index compared to smaller cities during the pandemic period (2020-2021)
-Ho: Larger cities did not experience a significant decrease in market heat index
-Ha: Larger cities did experience a significant decrease in market heat index
+- Hypothesis 1: Larger Cities experienced an increase in inventory compared to smaller cities due to individuals moving from larger cities to more remote locations during the pandemic period (2020-2021). 
+- Ho: Larger cities do not experience a significant increase in inventory compared to smaller cities during the pandemic period (2020-2021).
+- Ha: Larger cities experienced a significant increase in inventory compared to smaller cities during the pandemic period (2020-2021).
+- Hypothesis 2: Larger cities experienced a decrease in rent value index compared to smaller cities during the pandemic period (2020-2021)
+- Ho: Larger cities did not experience a significant decrease in rent value index
+- Ha: Larger cities did experience a significant decrease in rent value index
+- Hypothesis 3:  Larger Cities experienced a decrease in home value index compared to smaller cities due to individuals moving from larger cities to more remote locations during the pandemic period (2020-2021). 
+- Ho: Larger cities do not experience a significant decrease in home value index.
+- Ha: Larger cities do experience a significant decrease in home value. 
+- Hypothesis 4: Larger cities experienced a decrease in market heat index compared to smaller cities during the pandemic period (2020-2021)
+- Ho: Larger cities did not experience a significant decrease in market heat index
+- Ha: Larger cities did experience a significant decrease in market heat index
 
 Research Questions:
-Question 1: How did market heat index and interest rates correlate from 2018 - 2023?
-Question 2: How did housing inventory change from 2018-2023?
-Question 3: How did rent index change in large and small cities between 2018 and 2023?
-Question 4: When compared to the rent index in smaller cities between 2020 and 2021, is the decline in the rent index in large cities statistically significant? 
-Question 5: Is there a statistically significant difference in the measures of central tendency between large and small cities in 2021 compared to 2019?
-Question 6: How do inventory index levels compare across different city size segments?
-Question 7: Has there been a notable dip in the Home Value Index for in large cities between 2018 - 2023?
-Question 8: Have home prices increased at a faster rate in smaller cities compared to large cities?
+- Question 1: How did market heat index and interest rates correlate from 2018 - 2023?
+- Question 2: How did housing inventory change from 2018-2023?
+- Question 3: How did rent index change in large and small cities between 2018 and 2023?
+- Question 4: When compared to the rent index in smaller cities between 2020 and 2021, is the decline in the rent index in large cities statistically significant? 
+- Question 5: Is there a statistically significant difference in the measures of central tendency between large and small cities in 2021 compared to 2019?
+- Question 6: How do inventory index levels compare across different city size segments?
+- Question 7: Has there been a notable dip in the Home Value Index for in large cities between 2018 - 2023?
+- Question 8: Have home prices increased at a faster rate in smaller cities compared to large cities?
 
 Repository Structure:
 Accessing our Data Files used in our Analysis: 
