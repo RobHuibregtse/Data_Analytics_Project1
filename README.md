@@ -60,7 +60,7 @@ How to Run the Project:
 - Step 3: Ensure you have all the dependencies installed: pandas, pathlib, spicy.stats, matplotlib.pyplot, numpy, seaborn.
 
 Key Findings
-We were not able to reject the null hypothesis for any of our metrics signifying we could not find a significant change in these four metrics between large metro areas and smaller metro areas during the pandemic. We did observe significant changes in the housing market:
+- We were not able to reject the null hypothesis for any of our metrics signifying we could not find a significant change in these four metrics between large metro areas and smaller metro areas during the pandemic.
 - Nationwide housing inventory dropped significantly.
 - Home values and rent (which are strongly correlated) continued to go up.
 - The Federal Reserve’s use of interest rates to respond to the pandemic appeared effective in the housing market; the once positive correlation between interest rates and demand was reversed, and the two are now negatively correlated again (as basic economics would predict).
